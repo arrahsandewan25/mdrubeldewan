@@ -2,33 +2,41 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Senior Executive - HR | Talent Acquisition & Operations Specialist
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: Rubel-formal.jpg
+  image_circular: true # Changed to true for a professional circular look
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Dhaka, Bangladesh</p>
+    <p>Lantabur Group</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # Set to false since you are an HR professional, not an academic
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true 
+  scrollable: true 
+  limit: 5 
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true 
+  limit: 3 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+### Biography
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a dedicated **HR Professional** with over **7 years of comprehensive experience** in Human Resources Management, specializing in Talent Acquisition, HR Operations, and Workforce Analytics. Currently, I serve as a **Senior Executive of HR** at **Lantabur Group**, where I streamline recruitment processes and enhance employee lifecycle management.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+With a background in **Electronic and Communication Engineering (ECE)**, I bring a unique analytical perspective to HRIS management and data-driven decision-making. My core expertise lies in:
+
+* **Strategic Talent Acquisition:** Managing end-to-end recruitment for diverse technical and non-technical roles.
+* **HR Operations & Compliance:** Ensuring seamless administrative workflows and adherence to labor laws.
+* **HRIS & Reporting:** Utilizing data to improve workforce productivity and organizational health.
+* **Employee Engagement:** Building cultures that foster retention and professional growth.
+
+I am passionate about leveraging technology to humanize the workplace and am always open to connecting with fellow HR leaders and tech enthusiasts.
+
+---
