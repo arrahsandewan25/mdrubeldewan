@@ -1,18 +1,13 @@
-# -----------------------------------------------------------------------------
 # Site settings
-# -----------------------------------------------------------------------------
-
-title: MD. [cite_start]RUBEL DEWAN # [cite: 1]
-first_name: MD. [cite_start]RUBEL # [cite: 1]
-middle_name: 
-[cite_start]last_name: DEWAN # [cite: 1]
-contact_note: >
-  The best way to reach me is via LinkedIn or Email at mdrubeldewan99625@gmail.com. [cite: 2]
-[cite_start]description: > # [cite: 6]
-  [cite_start]Strategic HR professional with 7+ years of experience in talent acquisition, HR operations, HRIS, and workforce analytics. [cite: 6]
+title: MD. RUBEL DEWAN
+first_name: MD. RUBEL
+last_name: DEWAN
+email: mdrubeldewan99625@gmail.com
+description: >
+  Strategic HR professional with 7+ years of experience in talent acquisition, 
+  HR operations, HRIS, and workforce analytics. [cite: 6]
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  &copy; 2024 MD. RUBEL DEWAN. Powered by Jekyll and al-folio.
 [cite_start]keywords: HR, Recruitment, Talent Acquisition, HRIS, Workforce Analytics, People Operations, Dhaka, Bangladesh # [cite: 4, 6, 53]
 lang: en 
 icon: ⚛️ 
