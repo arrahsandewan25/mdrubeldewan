@@ -1,4 +1,9 @@
-name: Deploy site
+- name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }} # Add this line
+        publish_dir: ./_site
+        publish_branch: gh-pages # Or the branch you use for deployment
 
 on:
   push:
