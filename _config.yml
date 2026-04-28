@@ -18,7 +18,7 @@ lang: en
 icon: ⚛️ 
 
 url: https://mdrubeldewan.github.io # Suggested URL based on name
-baseurl: "" # Leave blank if this is your primary username.github.io repo
+baseurl: "https://mdrubeldewan.github.io/" # Leave blank if this is your primary username.github.io repo
 last_updated: true 
 impressum_path: 
 back_to_top: true 
