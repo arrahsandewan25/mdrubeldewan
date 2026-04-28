@@ -4,9 +4,11 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
+[cite_start]cv_pdf: /assets/pdf/rubel-hr.pdf # Ensure your PDF file is uploaded to this path [cite: 1]
 cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: >
+  MD. RUBEL DEWAN - Strategic HR professional with 7+ years of experience in talent acquisition, 
+  HR operations, HRIS, and workforce analytics. [cite: 1, 6]
 toc:
   sidebar: left
 ---
